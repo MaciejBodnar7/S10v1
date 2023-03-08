@@ -1,3 +1,3 @@
 # FlexBox testing
 
-tekst testk
+From Colt Web Developer course
