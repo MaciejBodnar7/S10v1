@@ -1,0 +1,14 @@
+@media (max-width: 768px){
+    h1 {
+        font-size: 4em;
+    }
+    nav, nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 576px){
+    h1 {
+        font-size: 2.5em;
+    }
+}
